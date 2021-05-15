@@ -1,0 +1,17 @@
+{
+  "id": "12345",
+  "isActive": true,
+  "vehichleType": "scooter",
+  "VehiclColor": "red",
+  "name": {
+    "first": "Senzo",
+    "last": "Tshezi"
+  },
+  "email": "senzo@undefined.co.uk",
+  "phone": "+27 (982) 543-2900",
+  "deliveryAreas": [
+    {
+      "name": "Tableview"
+    }
+  ]
+}
